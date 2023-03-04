@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sultan3271
 - 👀 I’m interested in full-stack Development/andriod development/machine learning
-- 🌱 I’m currently learning web development and C++ programming
+- 🌱 I’m currently learning web development with Django frameWork
 - 💞️ I’m looking to collaborate on advance php and want to learn some advance level backend
 - 📫 you can reach me through my email(sultankhan3271tts@gmail.com)
 
