@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sultan3271
+- 👋 Hi, I’m Sultan khan
 - 👀 I’m interested in full-stack Development/andriod development/machine learning
 - 🌱 I’m currently learning web development with Django frameWork
 - 💞️ I’m looking to collaborate on advance php and want to learn some advance level backend
