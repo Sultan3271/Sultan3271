@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sultan khan
-- 👀 I’m interested in full-stack Development/andriod development/machine learning
-- 🌱 I’m currently learning web development with Django frameWork
-- 💞️ I’m looking to collaborate on advance php and want to learn some advance level backend
+- 👀 I’m c,c++ expert (OOPs, Data structures)
+- 🌱 i know javaScript very well, animations, 2d game development, events.
+- 💞️  i am learning react native for app development and working on dJANGO AS WELL for backend development
 - 📫 you can reach me through my email(sultankhan3271tts@gmail.com)
 
 <!---
